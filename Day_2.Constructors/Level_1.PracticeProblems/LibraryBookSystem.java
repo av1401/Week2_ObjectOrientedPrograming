@@ -34,7 +34,7 @@ public class LibraryBookSystem {
     // Main method to test the class
     public static void main(String[] args) {
         // Create a book
-        LibraryBookSystem book1 = new LibraryBookSystem("The Great Hunter", "Abhishek Vishwakarma", 300.0, true);
+        LibraryBookSystem book1 = new LibraryBookSystem("The Great Gatsby", "F. Scott Fitzgerald", 300.0, true);
 
         // Display book details
         book1.displayDetails();
